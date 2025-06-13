@@ -23,7 +23,7 @@ against any compatible chess engine.
 2. Install the required libraries:
 
    ```bash
-   pip install -r requirements.txt.txt
+   pip install -r requirements.txt
    ```
 3. Download a compatible chess engine executable for your operating system. You can find the Stockfish executable
    [here](https://stockfishchess.org/).
